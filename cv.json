@@ -1,0 +1,239 @@
+{
+	"basics": {
+		"name": "Francisco Montoya",
+		"label": "FrontEnd Developer",
+		"image": "https://yt3.googleusercontent.com/-CFTJHU7fEWb7BYEb6Jh9gm1EpetvVGQqtof0Rbh-VQRIznYYKJxCaqv_9HeBcmJmIsp2vOO9JU=s900-c-k-c0x00ffffff-no-rj",
+		"email": "javiermontoya131@gmail.com | franciscomontoya131@hotmail.com",
+		"phone": "(503) 7296-8727",
+		"url": "https://johndoe.com",
+		"summary": "+5 años de experiencia en desarrollo web. Actualmente lidero un equipo de desarrollo para una empresa de logista en Costa Rica.",
+		"location": {
+			"address": "",
+			"postalCode": "N/A",
+			"city": "Quezaltepeque",
+			"district": "La Libertad",
+			"countryCode": "SV",
+			"region": "El Salvador"
+		},
+		"profiles": [{
+			"network": "LinkedIn",
+			"username": "franciscomontoya131",
+			"url": "https://linkedin.com/in/franciscomontoya131"
+		},
+		{
+			"network": "X",
+			"username": "Montoya9698",
+			"url": "https://x.com/Montoya9698"
+		},
+		{
+			"network": "GitHub",
+			"username": "FranMontoya131",
+			"url": "https://github.com/FranMontoya131"
+		}]
+	},
+	"work": [{
+		"name": "Doral Overseas",
+		"position": "FrontEnd Developer",
+		"url": "https://www.doraloverseascr.com",
+		"startDate": "2021-11-01",
+		"endDate": null,
+		"summary": "Desarollo y mantenimiento de una aplicacion web para la logistica de Condominios habitacionales en Costa Rica.",
+		"highlights": [
+			"Started the company"
+		]
+	},{
+		"name": "Vínculos Estratégicos",
+		"position": "FrontEnd Developer",
+		"url": "https://vestrategicos.com",
+		"startDate": "2020-09-01",
+		"endDate": "2021-10-01",
+		"summary": "Desarollo y mantenimiento de una aplicacion web para la logistica de Condominios habitacionales en Costa Rica.",
+		"highlights": [
+			"Started the company"
+		]
+	},{
+		"name": "i-Strategies",
+		"position": "Analista Programador",
+		"url": "https://i-strategies.tech",
+		"startDate": "2019-05-01",
+		"endDate": "2020-08-01",
+		"summary": "Desarrollo de aplicaciones web utilizando React JS. Administrador de micro servicios en la nube",
+		"highlights": [
+			"Started the company"
+		]
+	}],
+	"education": [{
+		"institution": "ITCA FEPADE",
+		"url": "https://www.itca.edu.sv",
+		"area": "Tecnico en Ingenieria de Sistemas Informaticos",
+		"studyType": "Bachelor",
+		"startDate": "2017",
+		"endDate": "2018",
+		"score": "4.0",
+		"courses": [
+			"DB1101 - Basic SQL"
+		]
+	}],
+	"awards": [{
+		"title": "Award",
+		"date": "2014-11-01",
+		"awarder": "Company",
+		"summary": "There is no spoon."
+	}],
+	"certificates": [{
+		"name": "Certificate",
+		"date": "2021-11-07",
+		"issuer": "Company",
+		"url": "https://certificate.com"
+	}],
+	"publications": [{
+		"name": "Publication",
+		"publisher": "Company",
+		"releaseDate": "2014-10-01",
+		"url": "https://publication.com",
+		"summary": "Description…"
+	}],
+	"skills": [{
+		"name": "HTML",
+		"level": "Avanzado",
+		"keywords": [
+			"Desarrollo Web", "Frontend"
+		]
+	},
+	{
+		"name": "CSS",
+		"level": "Medio",
+		"keywords": [
+			"Desarrollo Web", "Frontend", "Diseño Responsive"
+		]
+	},
+	{
+		"name": "JavaScript",
+		"level": "Avanzado",
+		"keywords": [
+			"Desarrollo Web", "Frontend", "Backend"
+		]
+	},
+	{
+		"name": "TypeScript",
+		"level": "Medio",
+		"keywords": [
+			"Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+		]
+	},
+	{
+		"name": "Node",
+		"level": "Medio",
+		"keywords": [
+			"Desarrollo Web", "Backend", "JavaScript", "Servidor"
+		]
+	},
+	{
+		"name": "Git",
+		"level": "Medio",
+		"keywords": [
+			"Control de Versiones", "Colaboración", "Código Fuente"
+		]
+	},
+	{
+		"name": "GitHub",
+		"level": "Bajo",
+		"keywords": [
+			"Control de Versiones", "Colaboración", "Código Fuente", "Git"
+		]
+	},
+	{
+		"name": "Astro",
+		"level": "Bajo",
+		"keywords": [
+			"Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+		]
+	},
+	{
+		"name": "React",
+		"level": "Medio",
+		"keywords": [
+			"Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+		]
+	}],
+	"languages": [{
+		"language": "Español",
+		"fluency": "Nativo"
+	},{
+		"language": "Ingles",
+		"fluency": "B1"
+	}],
+	"interests": [{
+		"name": "Wildlife",
+		"keywords": [
+			"Ferrets",
+			"Unicorns"
+		]
+	}],
+	"references": [{
+		"name": "Jane Doe",
+		"reference": "Reference…"
+	}],
+	"projects": [{
+		"name": "mars.codes",
+		"isActive": true,
+		"description": "Historia interactiva con retos de programación para viajar a Marte",
+		"highlights": [
+			"Elige tu propia aventura",
+			"En desarrollo"
+		],
+		"url": "https://mars.codes"
+	},
+	{
+		"name": "AdventJS",
+		"isActive": true,
+		"description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+		"highlights": [
+			"+1 millón de visitas",
+			"Multidioma",
+			"JavaScript & TypeScript"
+		],
+		"url": "https://adventjs.dev"
+	},
+	{
+		"name": "Codember",
+		"isActive": true,
+		"description": "Juego interactivo de programación con retos y secretos",
+		"highlights": [
+			"+2000 usuarios activos",
+			"Retos para cualquier lenguaje"
+		],
+		"url": "https://codember.dev"
+	},
+	{
+		"name": "codi.link",
+		"isActive": true,
+		"description": "Playground de código HTML, CSS y JavaScript para compartir",
+		"highlights": [
+			"100k visitas al mes",
+			"Desarrollado por la comunidad"
+		],
+		"url": "https://codi.link",
+		"github": "https://github.com/midudev/codi.link"
+	},
+	{
+		"name": "Pruebas Técnicas",
+		"isActive": true,
+		"description": "Lista de pruebas técnicas de empresas para practicar programación",
+		"highlights": [
+			"100% gratuito",
+			"+500 soluciones de la comunidad"
+		],
+		"url": "https://pruebastecnicas.com",
+		"github": "https://github.com/midudev/pruebas-tecnicas"
+	},
+	{
+		"name": "miduConf",
+		"description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+		"highlights": [
+			"+15k tickets repartidos",
+			"+50k espectadores en directo"
+		],
+		"url": "https://miduconf.com"
+	}]
+}

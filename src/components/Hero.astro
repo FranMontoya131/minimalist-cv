@@ -1,0 +1,27 @@
+---
+import { basics } from '@cv';
+
+
+const { name, label, image, location, profiles, phone, email } = basics
+const { city, region, district} = location
+---
+
+<section>
+    <div class="container">
+        <div class="info">
+            <h1>{name}</h1>
+            <h2>{label}</h2>
+            <span>
+                {city}, {district}, {region}
+            </span>
+            <footer class="no-print">
+                {
+
+                }
+            </footer>
+        </div>
+        <figure>
+            <img src={image} alt={name} />
+        </figure>
+    </div>
+</section>
